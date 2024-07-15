@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ishita and I'm a Pre-final year undergraduate at NIT Nagpur and an Open Source contributor at GSSOC, from Maharashtra</h2>
+<h2 align="left">Hi 👋! My name is Ishita and I'm a Pre-final year undergraduate at NIT Nagpur and an Open Source contributor at GSSOC</h2>
 
 ###
 
