@@ -1,49 +1,34 @@
-<h2 align="left">Hi 👋! My name is Ishita and I'm a Pre-final year undergraduate at NIT Nagpur and an Open Source contributor at GSSOC</h2>
 
-###
+<h1 align="center">Hi 👋, I'm Ishita Warwadkar</h1> 
+<h3 align="start"></h3>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CoderGirl2844&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=CoderGirl2844&locale=en&mode=daily&theme=nightowl&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-</div>
+# 💫 About Me:
 
-###
+- 🔭 I'm a <b> Open Source Contributor</b>
+  
+- 🌱 Currently Learning <b> Front-End Development </b> <img align="right" height="150" src="https://giffiles.alphacoders.com/137/137451.gif"  />
 
-<img align="right" height="150" src="https://giffiles.alphacoders.com/137/137451.gif"  />
+- 🌱 Pursuing  **Btech**
+  
+- 👯 I’m looking to collaborate on Open-Source projects
 
-###
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/CoderGirl2844)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-</div>
+- 📫 How to reach me **ishitawarwadkar@gmail.com**
 
-###
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <a href="ishitawarwadkar@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/ishita-warwadkar-724650251/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/profile/spideygirl_3000" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
-</div>
 
-###
 
-<br clear="both">
 
-###
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishita-warwadkar-724650251/)
+
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+# 📊 GitHub Stats:
+![](https://komarev.com/ghpvc/?username=CoderGirl2844&abbreviated=true) <br/> 
+![](https://github-readme-stats.vercel.app/api?username=CoderGirl2844&hide_rank=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=CoderGirl2844&theme=dark&hide_border=false)<br/>
+
+
+---
