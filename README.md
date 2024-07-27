@@ -30,7 +30,13 @@
 ![](https://github-readme-stats.vercel.app/api?username=CoderGirl2844&hide_rank=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=CoderGirl2844&theme=dark&hide_border=false)<br/>
 
-# 🏆 GitHub Trophies:
+## 🪶GSSOC(24) Badges 
+<div style='display:flex; align-items:center; gap: 10px;' align='start'><a href="https://gssoc.girlscript.tech/leaderboard">
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
+</a>
+</div><br/>
+
+## 🏆 GitHub Trophies:
 
 ![](https://github-profile-trophy.vercel.app/?username=Harshitmishra001&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 # Random Quote 💯
